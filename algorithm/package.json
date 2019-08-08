@@ -1,0 +1,13 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "node build/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
